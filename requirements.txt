@@ -1,0 +1,56 @@
+absl-py==2.3.1
+addict==2.4.0
+altgraph @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+certifi==2025.7.14
+charset-normalizer==3.4.2
+contourpy==1.3.0
+cycler==0.12.1
+facexlib==0.3.0
+filelock==3.18.0
+filterpy==1.4.5
+fonttools==4.59.0
+fsspec==2025.7.0
+future @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+grpcio==1.73.1
+idna==3.10
+imageio==2.37.0
+importlib_metadata==8.7.0
+importlib_resources==6.5.2
+Jinja2==3.1.6
+kiwisolver==1.4.7
+lazy_loader==0.4
+llvmlite==0.43.0
+lmdb==1.7.2
+macholib @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+Markdown==3.8.2
+MarkupSafe==3.0.2
+matplotlib==3.9.4
+mpmath==1.3.0
+networkx==3.2.1
+numba==0.60.0
+numpy==2.0.2
+opencv-python==4.12.0.88
+packaging==25.0
+pillow==11.3.0
+platformdirs==4.3.8
+protobuf==6.31.1
+pyparsing==3.2.3
+python-dateutil==2.9.0.post0
+PyYAML==6.0.2
+requests==2.32.4
+scikit-image==0.24.0
+scipy==1.13.1
+six @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+sympy==1.14.0
+tb-nightly==2.20.0a20250717
+tensorboard-data-server==0.7.2
+tifffile==2024.8.30
+tomli==2.2.1
+torch==2.7.1
+torchvision==0.22.1
+tqdm==4.67.1
+typing_extensions==4.14.1
+urllib3==2.5.0
+Werkzeug==3.1.3
+yapf==0.43.0
+zipp==3.23.0
