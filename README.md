@@ -1,5 +1,10 @@
 # Space Invaders Game
 
+## Screenshots
+
+![menu](ressources/s2.png)
+![game](ressources/s1.png)
+
 ## 🕹️ Description
 
 Project made for school. 
